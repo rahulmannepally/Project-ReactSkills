@@ -1,0 +1,8 @@
+.projects{
+    width:80%;
+    /* border:2px solid; */
+    margin: auto;
+    text-align: center;
+    padding: 0.625rem;
+    background-color: hwb(300 87% 6%);
+}
