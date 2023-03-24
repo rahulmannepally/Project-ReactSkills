@@ -40,10 +40,11 @@ export default function Card(props){
     return (
         <div class={styles.card}>
             <form class={styles.content} onSubmit={submitHandler}>
-                <img src={emoji} alt="Avatar" className={styles.product}/>
+                
+                <img src ={require(`../../../images/merch_images/${(props.name).replace(" ","_")}.png`)} alt={'shirt'} className={styles.product} />
                 <div class={styles.desc}>
                     <name className={styles.name}>{props.name}</name>
-                    <price>{props.price}</price>
+                    <price>${props.price}</price>
                     <Input
                         ref={amountInputRef}
                         label='Amount'

@@ -6,6 +6,12 @@ const CartItem = (props) => {
   return (
     <li className={classes['cart-item']}>
       <div>
+        <img 
+        src = {require(`../../../images/merch_images/${(props.name).replace(" ","_")}.png`)} 
+        alt={'product'} 
+        className={classes.image} 
+        />
+        
         <h2>{props.name}</h2>
         <div className={classes.summary}>
           <span className={classes.price}>{price}</span>
