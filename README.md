@@ -16,5 +16,6 @@ The application is designed to be easy to use and to provide a convenient way fo
 
 <img width="1250" alt="Screenshot 2023-03-24 at 2 00 19 PM" src="https://user-images.githubusercontent.com/39894688/227466469-9fe47948-9f45-4363-93e2-99d8760da57f.png">
 <img width="1272" alt="Screenshot 2023-03-24 at 2 00 52 PM" src="https://user-images.githubusercontent.com/39894688/227466475-6bace02b-caf3-425d-8098-441ec23de581.png">
-<img width="1274" alt="Screenshot 2023-03-24 at 2 01 19 PM" src="https://user-images.githubusercontent.com/39894688/227466515-1ddbf4e1-d0ab-44dd-b5d8-5315daff6d64.png">
+![Screenshot 2023-03-24 at 2 18 16 PM](https://user-images.githubusercontent.com/39894688/227470180-6509360f-b4b0-4a21-b7ad-e16812b3c515.png)
+
 
