@@ -10,7 +10,9 @@ React is a powerful JavaScript library that allows me to build user interfaces w
 <img width="347" alt="Screenshot 2023-03-24 at 11 21 21 AM" src="https://user-images.githubusercontent.com/39894688/227435987-03b3f77e-ec02-4e03-a764-04e730f58df4.png">
 <img width="347" alt="Screenshot 2023-03-24 at 11 21 37 AM" src="https://user-images.githubusercontent.com/39894688/227435998-838bcb1d-4e19-4a7b-8226-de69418d03f3.png">
 
-2. The <h4>Add-to-cart</h4> application is noted as Shop in this application and this application is built using all the concepts used in tic-tac-toe app and some of the other concepts like useRef, useReducer, useContext Hooks and React-Modal etc..
+2. The <h4>Add-to-cart</h4> application is noted as Shop in this application. This application allows users to add items to a cart and view the total cost of the items in the cart. The application uses React to render the user interface and to keep track of the items in the cart. The application also uses a database to store the items in the cart.
+
+The application is designed to be easy to use and to provide a convenient way for users to add items to a cart and to view the total cost of the items in the cart and the application is built using all the concepts used in tic-tac-toe app and some of the other concepts like useRef, useReducer, useContext Hooks and React-Modal etc..
 
 <img width="1276" alt="Screenshot 2023-03-24 at 11 23 13 AM" src="https://user-images.githubusercontent.com/39894688/227436419-10c86940-d960-4b14-a907-dd8447b21ca7.png">
 
