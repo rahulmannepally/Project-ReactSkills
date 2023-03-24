@@ -1,6 +1,7 @@
 import Square from "./Square";
 import React from "react";
 import styles from "./Board.module.css"
+// import Button from "../../../ui/Button";
 
 export default function Board(){
     const [xIsNext, setXIsNext] = React.useState(true);
@@ -30,26 +31,25 @@ export default function Board(){
     }
       
       return (
-        <>
-          <div className={styles.board}>
+        <div>
             <div className={`${styles.status} ${styles[xIsNext ?'player-1':'player-2']} ${winner && styles.winner}`}>{status}</div>
             <div className={styles.boardrow}>
                 <Square value={squares[0]} onSquareClick={() => handleClick(0)} />
                 <Square value={squares[1]} onSquareClick={() => handleClick(1)} />
                 <Square value={squares[2]} onSquareClick={() => handleClick(2)} />
-            </div>
-            <div className={styles.boardrow}>
+            {/* </div>
+            <div className={styles.boardrow}> */}
                 <Square value={squares[3]} onSquareClick={() => handleClick(3)} />
                 <Square value={squares[4]} onSquareClick={() => handleClick(4)} />
                 <Square value={squares[5]} onSquareClick={() => handleClick(5)} />
-            </div>
-            <div className={styles.boardrow}>
+            {/* </div>
+            <div className={styles.boardrow}> */}
                 <Square value={squares[6]} onSquareClick={() => handleClick(6)} />
                 <Square value={squares[7]} onSquareClick={() => handleClick(7)} />
                 <Square value={squares[8]} onSquareClick={() => handleClick(8)} />
             </div>
-          </div>
-        </>
+            <button className={styles.reset} onClick={()=>setSquares(Array(9).fill(null))}>Reset</button>
+        </div>
       );
 }
 

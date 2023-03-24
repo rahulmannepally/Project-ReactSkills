@@ -1,3 +1,4 @@
+import emoji from "../images/emoji.png"
 import {Link, useMatch, useResolvedPath} from "react-router-dom"//new
 import styles from './Navbar.module.css'
 // import Home from './pages/Home';
@@ -8,10 +9,11 @@ export default function Navbar(){
 return (
 <nav className ={styles['navigation']} >
 <Link to='/' className={styles.a}>
-    Blog
+    <img src={emoji} alt="avatar" className={styles.avatar}/>
 </Link>
 <ul>
-    <CustomLink to='/projects'>Projects</CustomLink>
+    <CustomLink to='/play'>Game</CustomLink>
+    <CustomLink to='/merch'>Shop</CustomLink>
     <CustomLink to='/contact'>Contact</CustomLink>
 </ul>
 </nav>);
@@ -20,7 +22,7 @@ return (
 function CustomLink({to,children,...props}){
     const resolvedPath = useResolvedPath(to);//new
     const isActive = useMatch({path: resolvedPath.pathname, end:true});//new
-    return <li className={styles[isActive?'active':'']}>
+    return <li className={isActive?styles['active']:''}>
         <Link to={to} {...props}>
             {children}
         </Link>

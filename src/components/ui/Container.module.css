@@ -1,0 +1,8 @@
+.container {
+    min-height: 100vh;
+    background-color: #f1e0f1;
+    width: 90%;
+    margin:auto;
+    text-align: center;
+    padding: 0.625rem;
+}
