@@ -14,8 +14,7 @@ React is a powerful JavaScript library that allows me to build user interfaces w
 
 The application is designed to be easy to use and to provide a convenient way for users to add items to a cart and to view the total cost of the items in the cart and the application is built using all the concepts used in tic-tac-toe app and some of the other concepts like useRef, useReducer, useContext Hooks and React-Modal etc..
 
-<img width="1276" alt="Screenshot 2023-03-24 at 11 23 13 AM" src="https://user-images.githubusercontent.com/39894688/227436419-10c86940-d960-4b14-a907-dd8447b21ca7.png">
+<img width="1250" alt="Screenshot 2023-03-24 at 2 00 19 PM" src="https://user-images.githubusercontent.com/39894688/227466469-9fe47948-9f45-4363-93e2-99d8760da57f.png">
+<img width="1272" alt="Screenshot 2023-03-24 at 2 00 52 PM" src="https://user-images.githubusercontent.com/39894688/227466475-6bace02b-caf3-425d-8098-441ec23de581.png">
+<img width="1274" alt="Screenshot 2023-03-24 at 2 01 19 PM" src="https://user-images.githubusercontent.com/39894688/227466515-1ddbf4e1-d0ab-44dd-b5d8-5315daff6d64.png">
 
-<img width="1273" alt="Screenshot 2023-03-24 at 11 23 47 AM" src="https://user-images.githubusercontent.com/39894688/227436456-445229c0-8fef-46a9-abd5-dd6fde2b2069.png">
-
-<img width="1272" alt="Screenshot 2023-03-24 at 11 24 06 AM" src="https://user-images.githubusercontent.com/39894688/227436474-fd91149d-8106-42a1-9b1e-ec3d9c5d4ed9.png">
