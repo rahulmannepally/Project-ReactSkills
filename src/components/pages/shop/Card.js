@@ -1,7 +1,7 @@
 // import Container from "../../ui/Container";
 import React from "react";
 import styles from "./Card.module.css";
-import emoji from "../../../images/emoji.png";
+// import emoji from "../../../images/emoji.png";
 import Input from "../../ui/Input";
 import CartContext from "../../../store/cart-context";
 
