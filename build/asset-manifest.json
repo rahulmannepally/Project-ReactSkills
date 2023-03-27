@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cd3d90d4.css",
+    "main.js": "/static/js/main.8dae5706.js",
+    "static/js/787.a361b86b.chunk.js": "/static/js/787.a361b86b.chunk.js",
+    "static/media/emoji.png": "/static/media/emoji.0ace591d31bc8332375d.png",
+    "static/media/black_shirt.png": "/static/media/black_shirt.eb3b9968b45ad5325ade.png",
+    "static/media/shirt1.png": "/static/media/shirt1.92457113bc6531488bb8.png",
+    "static/media/purple_shirt.png": "/static/media/purple_shirt.165a6379c4b037792e79.png",
+    "static/media/grey_shirt.png": "/static/media/grey_shirt.c4094e06d8255f387176.png",
+    "static/media/blue_shirt.png": "/static/media/blue_shirt.64f6f0562941ddf3dba2.png",
+    "static/media/yellow_shirt.png": "/static/media/yellow_shirt.daddcb662d45f64fc315.png",
+    "static/media/ggreen_shirt.png": "/static/media/ggreen_shirt.ed22908a128bbe272ac9.png",
+    "static/media/green_shirt.png": "/static/media/green_shirt.4c8e509371e6b11b4587.png",
+    "static/media/orange_shirt.png": "/static/media/orange_shirt.ba3593abdb28399aed84.png",
+    "static/media/red_shirt.png": "/static/media/red_shirt.e44dc5048adbe9cea320.png",
+    "static/media/twitter.png": "/static/media/twitter.38e4a5df9c01e69ef2b9.png",
+    "static/media/github.png": "/static/media/github.7acde23236a5c7507398.png",
+    "index.html": "/index.html",
+    "main.cd3d90d4.css.map": "/static/css/main.cd3d90d4.css.map",
+    "main.8dae5706.js.map": "/static/js/main.8dae5706.js.map",
+    "787.a361b86b.chunk.js.map": "/static/js/787.a361b86b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd3d90d4.css",
+    "static/js/main.8dae5706.js"
+  ]
+}
