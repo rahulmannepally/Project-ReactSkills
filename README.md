@@ -1,4 +1,4 @@
-# MyPersonalBlog-React
+# Project-ReactSkills
 (This project is still in development)
 
 Welcome to MyPersonalBlog using React repository. I am a web developer who loves to create interactive and dynamic web applications using React. 
